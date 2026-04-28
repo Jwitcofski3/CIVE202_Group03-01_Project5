@@ -28,9 +28,9 @@ The raw data was cleaned to remove any entries wtihout values and voided them be
 ---
 
 ## Repository Structure
-* `/data`: Contains the raw and cleaned datasets.
-* `Project5_Analysis.ipynb`: The primary Jupyter Notebook containing the code, functions, and plots.
-* `README.md`: Project documentation and setup instructions.
+* [Raw Data](Raw_Data): Contains the raw and cleaned datasets.
+* [Python Code](CIVE202_Spring2026_TRANS-01-03_Project5_Code.ipynb): The primary Jupyter Notebook containing the code, functions, and plots.
+* 
 
 ---
 
