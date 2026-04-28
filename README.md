@@ -1,6 +1,6 @@
-# CIVE 202: Project #5 - [Insert Project Title Here]
-**Group 03-01** **Members:** [Name 1], [Name 2], [Name 3]  
-**Date:** April 2026  
+# CIVE 202: Project #5 - Autonomous Vehicle Interactions at an Intersection
+**Group 03-01** **Members:** Justin Witcofski, Cam Becker, Gavin Van Driel
+**Date:** May 2026  
 
 ---
 
