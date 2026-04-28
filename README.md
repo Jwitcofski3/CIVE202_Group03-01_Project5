@@ -14,7 +14,7 @@ This repository contains the engineering analysis for Project #5. The goal of th
 ---
 
 ## Technical Requirements
-To run the analysis in this repository, you will need Python 3.x and the following libraries:
+To run the analysis in this repository, you will need Python in Jupyter Notebook and the following libraries:
 * `pandas` - For data cleaning and manipulation.
 * `matplotlib` / `seaborn` - For generating performance graphs.
 * `numpy` - For numerical calculations.
