@@ -31,7 +31,7 @@ The raw data was cleaned to remove any entries wtihout values and voided them be
 * [Raw Data](Transformed_TGSIM_Foggy_Bottom_200sec(in).csv): Contains the raw datasets
 * [Python Code](CIVE202_Spring2026_TRANS-01-03_Project5_Code.ipynb): The primary Jupyter Notebook containing the code, functions, and plots.
 * [Annotated Code Document](CIVE202_Spring2026_Group01-03_Project5_Annotated_Code.docx): Explains what each function means in the code
-
+* [Scope of Work](CIVE202_Spring2026_TRANS-01-03_Project5_SOW.docx): Outline of what was tasked for this project
 ---
 
 ## How to Use
