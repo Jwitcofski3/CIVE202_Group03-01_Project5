@@ -33,6 +33,7 @@ The raw data was cleaned to remove any entries wtihout values and voided them be
 * [Annotated Code Document](CIVE202_Spring2026_Group01-03_Project5_Annotated_Code.docx): Explains what each function means in the code
 * [Scope of Work](CIVE202_Spring2026_TRANS-01-03_Project5_SOW.docx): Outline of what was tasked for this project
 * [Engineering TimeSheet](CIVE202_Spring2026_TRANS-01-03_Project5_Timesheet.xlsx): Amount of hours each individual charged to project 5
+* [Written Report](CIVE202_Spring2026_TRANS-01-03_Project5_WrittenReport.docx): Analyzes findings and answers client prompt
 
 ---
 
